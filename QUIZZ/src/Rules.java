@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-
+// ...
 public class Rules extends JFrame implements ActionListener {
 
     String name;
